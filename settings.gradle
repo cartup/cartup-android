@@ -1,0 +1,3 @@
+include ':cartupLibrary'
+include ':app'
+rootProject.name = "Cartup"
